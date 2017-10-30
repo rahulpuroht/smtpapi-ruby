@@ -1,3 +1,6 @@
+env:
+  global:
+    - CC_TEST_REPORTER_ID=$CC_TEST_REPORTER_ID
 language: ruby
 rvm:
   - 2.2
