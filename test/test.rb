@@ -1,6 +1,8 @@
 # -*- encoding: utf-8 -*-
 require 'test/unit'
 require './lib/smtpapi'
+require './test/test_helper'
+
 
 #
 # SmtpapiTest implementation
